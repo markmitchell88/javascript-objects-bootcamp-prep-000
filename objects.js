@@ -1,5 +1,5 @@
-const playlist = { KatyPerry: 'firework' }
+var playlist = {}
 
-function updatePlaylist(key){
-  return Object.assign(key)
+function updatePlaylist(playlist, artistName, songTitle){
+  return Object.assign(obj,string,value)
 }
