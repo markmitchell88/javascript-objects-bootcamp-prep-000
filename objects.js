@@ -7,5 +7,4 @@ return playlist
 
 function removeFromPlaylist(object,artistName){
   delete playlist.artistName
-  return playlist
 }
