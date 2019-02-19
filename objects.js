@@ -6,6 +6,6 @@ return playlist
 }
 
 function removeFromPlaylist(object,artistName){
-  delete (object,artistName)
+  delete playlist[artistName]
   return playlist
 }
