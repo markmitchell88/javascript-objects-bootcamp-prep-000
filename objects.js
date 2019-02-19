@@ -1,4 +1,4 @@
-var playlist = { KatyPerry: 'firework' }
+const playlist = { KatyPerry: 'firework' }
 
 function updatePlaylist(key){
   return Object.assign(key)
